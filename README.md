@@ -10,6 +10,10 @@
 - Safe filename sanitization
 - Cross-platform considerations (Windows/Mac/Linux)
 
+## Preview
+
+![Logo](preview.png)
+
 ## Quick start (dev)
 
 1. Clone the repo:
