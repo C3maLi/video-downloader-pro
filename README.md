@@ -12,7 +12,7 @@
 
 ## Preview
 
-![Logo](preview.png)
+![Logo](preview-dark.png)
 
 ## Quick start (dev)
 
